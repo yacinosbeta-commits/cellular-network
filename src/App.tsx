@@ -304,7 +304,7 @@ export default function App() {
                 <h3 className="text-xs font-bold text-zinc-400 uppercase tracking-wider">Technical Note</h3>
                 <p className="text-xs text-zinc-500 leading-relaxed">
                   This Ionic dashboard provides a real-time visualization of cellular telemetry. 
-                  Values like RSRP and RSRQ are critical for determining handover performance.
+                  The full 100% Native Kotlin source code is available in the <b>native-android-source.md</b> file in this project.
                 </p>
               </div>
             </section>

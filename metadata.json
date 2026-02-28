@@ -1,5 +1,5 @@
 {
   "name": "Cellular Network Monitor",
   "description": "A clean, minimal dashboard for monitoring cellular network information, signal strength, and frequency bands.",
-  "requestFramePermissions": []
+  "requestFramePermissions": ["geolocation"]
 }
